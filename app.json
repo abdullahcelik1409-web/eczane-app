@@ -25,7 +25,16 @@
       "package": "com.nobetcieczane.app"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "name": "Nöbetçi Eczaneler",
+      "shortName": "NöbetçiEczane",
+      "description": "Yakınınızdaki nöbetçi eczaneleri bulun",
+      "startUrl": "/",
+      "display": "standalone",
+      "orientation": "portrait",
+      "backgroundColor": "#F5F7FA",
+      "themeColor": "#4A90D9",
+      "lang": "tr"
     },
     "extra": {
       "eas": {
